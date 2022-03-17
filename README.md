@@ -10,7 +10,7 @@ Defined two functions,
 2) floretpositions : Function to compute the positions of florets based on the max. number of florets i.e. the parameter nmax and the parameter ndiff (ndiff = 0 corresponds
 to floret positions that line on a Fermat spiral).
 
-Using these functions, the information from Fermatspiral.py, and the expressions in the question sheet, a study of floret positions was carried out. For different values of ndiff different floret positions were computed. In the case of a sunflower, the floret positions lie on a Fermat spiral (i.e. ndiff = 0).
+Using these functions, the information from Fermatspiral.py, and the expressions in the question sheet, a study of floret positions was carried out. For different values of ndiff, various floret positions were computed. In the case of a sunflower, the floret positions lie on a Fermat spiral (i.e. ndiff = 0).
 
 I have attached the relevant question sheet and recommend that it be read while you're looking at the code. The programs were written in a Jupyter Notebook which has also been attached.
 

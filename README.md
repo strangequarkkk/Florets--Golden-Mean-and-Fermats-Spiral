@@ -1,4 +1,4 @@
-# Studying positions of florets in flowers
+# Studying florets postions in flowers
 
 Python libraries used: Numpy, Matplotlib.pyplot.
 

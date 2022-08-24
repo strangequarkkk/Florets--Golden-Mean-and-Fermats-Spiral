@@ -2,7 +2,7 @@
 
 Python libraries used: Numpy, Matplotlib.pyplot.
 
-In this coursework/project:
+In this coursework/project,
 
 Defined two functions,
 
